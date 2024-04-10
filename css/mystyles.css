@@ -1,0 +1,19 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.site-heading-lower{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mb-3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: orangered !important;
+}
+.notred{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 20px 20px 20px rgba(0,0,0,0.5);
+}
+.section-heading-lower{
+    box-shadow: 20px 20px 20px rgba(0,0,0,0.5);
+}
